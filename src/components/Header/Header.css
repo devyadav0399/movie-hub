@@ -1,0 +1,14 @@
+.header {
+  width: 100%;
+  cursor: pointer;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  background-color: #49669d;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 5vw;
+  padding-bottom: 15px;
+  color: white;
+  z-index: 100;
+  font-weight: 400;
+}
